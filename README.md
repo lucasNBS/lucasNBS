@@ -1,11 +1,14 @@
-# LucasNBS
-Pau dos Ferros, RN
+# Hello There! I'm LucasNBS
 
-Técnico em Informática, IFRN Campus Pau dos Ferros
+<br />
 
-Estudante de Análise e Desenvolvimento de Sistemas, IFRN Campus Pau dos Ferros
+I live in Pau dos Ferros, RN - Brazil
 
-Desenvolvedor Front-end a caminho do Full-stack
+I graduated from high school as an Informatic Technician at IFRN Campus Pau dos Ferros, where I'm currently a System Analysis and Development student
+
+I'm a Front-end developer on the way to Full-Stack
+
+I'm passionate about web development and I'm willing to study it as much as I can
 
 <br />
 
@@ -18,7 +21,6 @@ Desenvolvedor Front-end a caminho do Full-stack
 <br />
 
 ---
-
 <br />
 
 <div align="center">
