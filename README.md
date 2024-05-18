@@ -28,8 +28,11 @@ I'm passionate about web development and I'm willing to study it as much as I ca
   <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" alt="css icon" />
   <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" alt="javascript icon" />
   <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" alt="typescript icon" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64" alt="python icon" />
   <img src="https://icongr.am/devicon/nodejs-original.svg?size=64&color=currentColor" alt="node js icon" />
   <img src="https://icongr.am/devicon/react-original.svg?size=64&color=currentColor" alt="react icon" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="64" height="64" alt="next js icon" />
+  <img src="https://icongr.am/devicon/django-original.svg?size=64&color=currentColor" alt="django icon" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" width="64" height="64" alt="django rest icon" />
   <img src="https://icongr.am/devicon/postgresql-original.svg?size=64&color=currentColorr" alt="postgresql icon" />
 </div>
