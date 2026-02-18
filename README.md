@@ -16,23 +16,29 @@ I aim to work on innovative, impactful projects and continue developing my skill
 
 ### Front end
 
-<img src="./images/html.svg" width="64" height="64" />
-<img src="./images/css.svg" width="64" height="64" />
-<img src="./images/javascript.svg" width="64" height="64" />
-<img src="./images/typescript.svg" width="64" height="64" />
-<img src="./images/react.svg" width="64" height="64" />
-<img src="./images/nextjs.svg" width="64" height="64" />
+<div>
+  <img src="./images/html.svg" width="64" height="64" />
+  <img src="./images/css.svg" width="64" height="64" />
+  <img src="./images/javascript.svg" width="64" height="64" />
+  <img src="./images/typescript.svg" width="64" height="64" />
+  <img src="./images/react.svg" width="64" height="64" />
+  <img src="./images/nextjs.svg" width="64" height="64" />
+</div>
 
 ### Back end
 
-<img src="./images/python.svg" width="64" height="64" />
-<img src="./images/nodejs.svg" width="64" height="64" />
-<img src="./images/django.svg" width="64" height="64" />
-<img src="./images/postgressql.svg" width="64" height="64" />
-<img src="./images/mongodb.svg" width="64" height="64" />
+<div>
+  <img src="./images/python.svg" width="64" height="64" />
+  <img src="./images/nodejs.svg" width="64" height="64" />
+  <img src="./images/django.svg" width="64" height="64" />
+  <img src="./images/postgressql.svg" width="64" height="64" />
+  <img src="./images/mongodb.svg" width="64" height="64" />
+</div>
 
 ### DevOps & Tests
 
-<img src="./images/docker.png" width="64" height="64" />
-<img src="./images/githubactions.svg" width="64" height="64" />
-<img src="./images/vitest.png" width="64" height="64" />
+<div>
+  <img src="./images/docker.png" width="64" height="64" />
+  <img src="./images/githubactions.svg" width="64" height="64" />
+  <img src="./images/vitest.png" width="64" height="64" />
+</div>
