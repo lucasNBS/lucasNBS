@@ -1,38 +1,38 @@
-# Hello There! I'm LucasNBS
+# Hello There! 👋
+
+<img src="./images/banner.jpeg" width="100%" />
 
 <br />
 
-I live in Pau dos Ferros, RN - Brazil
+Hi, I’m **LucasNBS** from Pau dos Ferros, RN, Brazil.
 
-I graduated from high school as an Informatic Technician at IFRN Campus Pau dos Ferros, where I'm currently a System Analysis and Development student
+I graduated from high school as an Informatics Technician at IFRN – Campus Pau dos Ferros, where I am currently studying Systems Analysis and Development.
 
-I'm a Front-end developer on the way to Full-Stack
+I have been working as a Web Developer since 2022, when I started learning HTML, CSS, and JavaScript. Since then, I have worked with both front end and back end technologies, including Python, TypeScript, React.js, Next.js, Django, and Django REST Framework.
 
-I'm passionate about web development and I'm willing to study it as much as I can
+Throughout my journey, I have learned how to work in teams, write clear, efficient, and maintainable code, and design complex systems in a strategic way.
 
-<br />
+I aim to work on innovative, impactful projects and continue developing my skills in system design and leadership. My long-term objective is to work as a Tech Lead, contributing to both technical excellence and team direction.
 
-<div style="display: flex" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasNBS&show_icons=true&theme=dark&include_all_commits=true&bg_color=333333&text_color=ffffff" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasNBS&layout=compact&theme=dark&bg_color=333333&text_color=ffffff" height="200" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasNBS&theme=dark&background=333333" height="200" />
-</div>
+### Front end
 
-<br />
+<img src="./images/html.svg" width="64" height="64" />
+<img src="./images/css.svg" width="64" height="64" />
+<img src="./images/javascript.svg" width="64" height="64" />
+<img src="./images/typescript.svg" width="64" height="64" />
+<img src="./images/react.svg" width="64" height="64" />
+<img src="./images/nextjs.svg" width="64" height="64" />
 
----
-<br />
+### Back end
 
-<div align="center">
-  <img src="https://icongr.am/devicon/html5-original.svg?size=64&color=currentColor" alt="html icon" />
-  <img src="https://icongr.am/devicon/css3-original.svg?size=64&color=currentColor" alt="css icon" />
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=64&color=currentColor" alt="javascript icon" />
-  <img src="https://icongr.am/devicon/typescript-original.svg?size=64&color=currentColor" alt="typescript icon" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="64" height="64" alt="python icon" />
-  <img src="https://icongr.am/devicon/nodejs-original.svg?size=64&color=currentColor" alt="node js icon" />
-  <img src="https://icongr.am/devicon/react-original.svg?size=64&color=currentColor" alt="react icon" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="64" height="64" alt="next js icon" />
-  <img src="https://icongr.am/devicon/django-original.svg?size=64&color=currentColor" alt="django icon" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original-wordmark.svg" width="64" height="64" alt="django rest icon" />
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size=64&color=currentColorr" alt="postgresql icon" />
-</div>
+<img src="./images/python.svg" width="64" height="64" />
+<img src="./images/nodejs.svg" width="64" height="64" />
+<img src="./images/django.svg" width="64" height="64" />
+<img src="./images/postgressql.svg" width="64" height="64" />
+<img src="./images/mongodb.svg" width="64" height="64" />
+
+### DevOps & Tests
+
+<img src="./images/docker.png" width="64" height="64" />
+<img src="./images/githubactions.svg" width="64" height="64" />
+<img src="./images/vitest.png" width="64" height="64" />
