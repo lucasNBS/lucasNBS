@@ -2,8 +2,6 @@
 
 <img src="./images/banner.png" width="100%" />
 
-<br />
-
 I am **LucasNBS**.
 
 I am a Full Stack Developer focused on building maintainable web applications with **Next.js**, **React.js** **TypeScript**, **Django**, **Django REST Framework** and **Python**.
@@ -21,5 +19,5 @@ Currently studying Systems Analysis and Development at IFRN and deepening my kno
 
 ## Contact
 
-LinkedIn: linkedin.com/in/lucasnbs  
+LinkedIn: [linkedin.com/in/lucasnbs](https://www.linkedin.com/in/lucasnbs/)  
 Email: lucasnbs.dev@gmail.com
