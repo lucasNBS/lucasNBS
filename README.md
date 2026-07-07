@@ -1,44 +1,25 @@
 # Hello There! 👋
 
-<img src="./images/banner.jpeg" width="100%" />
+<img src="./images/banner.png" width="100%" />
 
 <br />
 
-Hi, I’m **LucasNBS** from Pau dos Ferros, RN, Brazil.
+I am **LucasNBS**.
 
-I graduated from high school as an Informatics Technician at IFRN – Campus Pau dos Ferros, where I am currently studying Systems Analysis and Development.
+I am a Full Stack Developer focused on building maintainable web applications with **Next.js**, **React.js** **TypeScript**, **Django**, **Django REST Framework** and **Python**.
 
-I have been working as a Web Developer since 2022, when I started learning HTML, CSS, and JavaScript. Since then, I have worked with both front end and back end technologies, including Python, TypeScript, React.js, Next.js, Django, and Django REST Framework.
+I have experience working on production systems used by thousands of users, contributing to front-end and back-end development, API integrations, refactoring, performance improvements, accessibility, testing and system maintenance.
 
-Throughout my journey, I have learned how to work in teams, write clear, efficient, and maintainable code, and design complex systems in a strategic way.
+Currently studying Systems Analysis and Development at IFRN and deepening my knowledge in system design, software architecture, CI/CD and scalable back-end development.
 
-I aim to work on innovative, impactful projects and continue developing my skills in system design and leadership. My long-term objective is to work as a Tech Lead, contributing to both technical excellence and team direction.
+## Tech Stack
 
-### Front end
+**Front-end:** Next.js, React.js, TypeScript, JavaScript, HTML, CSS  
+**Back-end:** Django, Django REST Framework, Python, REST APIs, PostgreSQL  
+**Tools:** Docker, Git, GitHub Actions, CI/CD  
+**Practices:** Testing, refactoring, accessibility, SEO, performance and componentization
 
-<div>
-  <img src="./images/html.svg" width="64" height="64" />
-  <img src="./images/css.svg" width="64" height="64" />
-  <img src="./images/javascript.svg" width="64" height="64" />
-  <img src="./images/typescript.svg" width="64" height="64" />
-  <img src="./images/react.svg" width="64" height="64" />
-  <img src="./images/nextjs.svg" width="64" height="64" />
-</div>
+## Contact
 
-### Back end
-
-<div>
-  <img src="./images/python.svg" width="64" height="64" />
-  <img src="./images/nodejs.svg" width="64" height="64" />
-  <img src="./images/django.svg" width="64" height="64" />
-  <img src="./images/postgressql.svg" width="64" height="64" />
-  <img src="./images/mongodb.svg" width="64" height="64" />
-</div>
-
-### DevOps & Tests
-
-<div>
-  <img src="./images/docker.png" width="64" height="64" />
-  <img src="./images/githubactions.svg" width="64" height="64" />
-  <img src="./images/vitest.png" width="64" height="64" />
-</div>
+LinkedIn: linkedin.com/in/lucasnbs  
+Email: lucasnbs.dev@gmail.com
