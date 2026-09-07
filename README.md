@@ -14,7 +14,7 @@ Currently studying Systems Analysis and Development at IFRN and deepening my kno
 
 **Front-end:** Next.js, React.js, TypeScript, JavaScript, HTML, CSS  
 **Back-end:** Django, Django REST Framework, Python, REST APIs, PostgreSQL  
-**Tools:** Docker, Git, GitHub Actions, CI/CD, NGINX, Codex
+**Tools:** Docker, Git, GitHub Actions, CI/CD, NGINX, Codex  
 **Practices:** Testing, refactoring, accessibility, SEO, performance and componentization
 
 ## Contact
